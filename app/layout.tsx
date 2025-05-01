@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "TripNest",
   description: "Travle Landing Page",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/logo.png",
   },
 };
 
